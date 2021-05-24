@@ -1,7 +1,7 @@
 # CryptoTracker
 Cryptocurrencies are very volatile, and an asset's value can skyrocket or plumment in the timespan of a few hours. Some complicated coin data sites are out there, but none are aimed at beginners. Our solution is an intuitive website that provides live updates on coins experiencing unusual growth or loss.
 
-Try out [CryptoTracker](https://ericanderson2.github.io/CryptoTracker/index.html).
+Try out [CryptoTracker](https://ericanderson2.github.io/CryptoTracker/index.html)!
 
 Features
 -------------------
